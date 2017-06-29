@@ -12,9 +12,9 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Hormones",
+    "Estrogen",
     "Glucocorticoids", 
-    "Artificial Intelligence in Biosciences",
+    "Computational Intelligence in Biosciences",
     "Eating a good meal or two",
     "Travelling"
   ]
@@ -40,7 +40,7 @@ weight = 1
 
 # Biography
 
-Sam "Senior" Okret is a professor of molecular endocrinology at the department of Biosciences and Nutrition at Karolinska Institutet. His research interests are mainly focused on hormones and glucocorticoids. He leads the Sam Okret Group (SO-Group).
+Sam "Senior" Okret is a professor of molecular endocrinology at the department of Biosciences and Nutrition at Karolinska Institutet. His research interests are mainly focused on hormones, including estrogen and glucocorticoids. He leads the Sam Okret Group (<a href='http://ki.se/orgid/137007'>SO-Group</a>).
 
 
 <!-- include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
